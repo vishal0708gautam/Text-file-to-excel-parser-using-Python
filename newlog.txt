@@ -1,0 +1,289 @@
+cmd_time (real) = 32.5363
+
+
+
+rand_write (real) = 9.4563
+
+
+
+rand_write (real) = 5.6686
+
+
+
+rand_write (real) = 1.6926
+
+
+
+rand_write (real) = 2.1464
+
+
+
+rand_write (real) = 1.3477
+
+
+
+cmd_time (real) = 26.4954
+
+
+
+rand_write (real) = 1.3364
+
+
+
+rand_write (real) = 1.3676
+
+
+
+rand_write (real) = 1.3544
+
+
+
+rand_write (real) = 1.3649
+
+
+
+rand_write (real) = 1.3685
+
+
+
+cmd_time (real) = 26.8515
+
+
+
+rand_write (real) = 1.2283
+
+
+
+rand_write (real) = 1.3868
+
+
+
+rand_write (real) = 1.383
+
+
+
+rand_write (real) = 1.4232
+
+
+
+rand_write (real) = 1.3911
+
+
+
+cmd_time (real) = 26.5302
+
+
+
+rand_write (real) = 1.4008
+
+
+
+rand_write (real) = 1.4131
+
+
+
+rand_write (real) = 1.4174
+
+
+
+rand_write (real) = 1.4413
+
+
+
+rand_write (real) = 1.415
+
+
+
+cmd_time (real) = 47.9644
+
+
+
+rand_write (real) = 1.9043
+
+
+
+rand_write (real) = 1.4322
+
+
+
+rand_write (real) = 1.2899
+
+
+
+rand_write (real) = 1.2459
+
+
+
+rand_write (real) = 1.4101
+
+
+
+cmd_time (real) = 21.2429
+
+
+
+rand_write (real) = 1.2505
+
+
+
+rand_write (real) = 1.4274
+
+
+
+rand_write (real) = 1.4477
+
+
+
+rand_write (real) = 1.4511
+
+
+
+rand_write (real) = 1.2423
+
+
+
+cmd_time (real) = 26.3773
+
+
+
+rand_write (real) = 1.473
+
+
+
+rand_write (real) = 1.473
+
+
+
+rand_write (real) = 1.4782
+
+
+
+rand_write (real) = 1.4869
+
+
+
+rand_write (real) = 1.4739
+
+
+
+cmd_time (real) = 21.3796
+
+
+
+rand_write (real) = 1.459
+
+
+
+rand_write (real) = 1.4701
+
+
+
+rand_write (real) = 1.3346
+
+
+
+rand_write (real) = 1.4946
+
+
+
+rand_write (real) = 1.4772
+
+
+
+cmd_time (real) = 24.3928
+
+
+
+rand_write (real) = 1.321
+
+
+
+rand_write (real) = 1.3215
+
+
+
+rand_write (real) = 1.5222
+
+
+
+rand_write (real) = 1.4919
+
+
+
+rand_write (real) = 1.3311
+
+
+
+cmd_time (real) = 26.4855
+
+
+
+rand_write (real) = 1.519
+
+
+
+rand_write (real) = 1.5078
+
+
+
+rand_write (real) = 10.7788
+
+
+
+rand_write (real) = 8.5577
+
+
+
+rand_write (real) = 17.4581
+
+
+
+cmd_time (real) = 21.6242
+
+
+
+rand_write (real) = 1.9792
+
+
+
+rand_write (real) = 1.5125
+
+
+
+rand_write (real) = 1.5278
+
+
+
+rand_write (real) = 1.5609
+
+
+
+rand_write (real) = 1.3426
+
+
+
+cmd_time (real) = 21.5236
+
+
+
+rand_write (real) = 1.3978
+
+
+
+rand_write (real) = 1.3645
+
+
+
+rand_write (real) = 1.5724
+
+
+
+rand_write (real) = 1.5504
+
+
+
+rand_write (real) = 1.4006
+
+
+
+cmd_time (real) = 25.0052
